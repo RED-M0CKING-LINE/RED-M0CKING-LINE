@@ -1,6 +1,9 @@
-I’m @RED-M0CKING-LINE
+# I’m Ethan
 
-I probably should fill this in with something useful though.
+[My Website](https://www.ethanashley.net)
+
+
+I should probably put more useful things here. Perhaps one day.
 
 
 <!---
